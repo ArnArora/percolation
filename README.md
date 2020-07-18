@@ -1,2 +1,2 @@
-# percolation
-Find the percolation threshold using Monte Carlo simulation.
+# Percolation
+Estimate the percolation threshold for an N x N grid using Monte Carlo simulation.
